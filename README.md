@@ -21,4 +21,5 @@ This Exploratory Data Analysis is to practice Python skills learned till now on 
   
 
 - b. Is it a sample? If yes, was it properly sampled?
+  
 Yes, it is a sample. We don't have official information about the data collection method, but it appears not to be a random sample, so we can assume that it is not representative.
